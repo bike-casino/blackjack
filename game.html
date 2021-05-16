@@ -336,10 +336,10 @@ The JavaScript blackjack game created by Casino Bike (casinobike.com)
     };
 
     this.getBank = function () {
-      $('#bank').html('Winnings: €' + bank.formatMoney(2, '.', ','));
+      $('#bank').html('Winnings: $' + bank.formatMoney(2, '.', ','));
 
       if (bank < 0) {
-        $('#bank').html('Winnings: <span style="color: #D90000">-€' +
+        $('#bank').html('Winnings: <span style="color: #D90000">-$' +
         bank.formatMoney(2, '.', ',').toString().replace('-', '') + '</span>');
       }
     };
@@ -927,7 +927,7 @@ The JavaScript blackjack game created by Casino Bike (casinobike.com)
         game.newGame();
       } else {
         $('#alert').removeClass('alert-info alert-success').addClass('alert-error');
-        showAlert('The minimum bet is €1.');
+        showAlert('The minimum bet is $1.');
       }
     } else {
       $('#myModal').modal();
