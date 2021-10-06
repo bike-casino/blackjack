@@ -61,3 +61,8 @@ By all means! But please, raise a problem first if it is more than a small chang
 -----
 
 ## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+
+<div><a href="https://casinobike.com/" target="_blank" rel="noopener"><img src="https://i.ibb.co/pvt0xv3/casinobike-logo-round.png" width="120" style="max-width: 100%;"></a> <a href="https://casinoduende.com/" target="_blank" rel="noopener"><img src="https://i.ibb.co/w47R2nC/casinoduende-logo-round.png" width="120" style="max-width: 100%;"></a> <a href="https://casinoivan.com/" target="_blank" rel="noopener"><img src="https://i.ibb.co/bdRbX14/casino-ivan-logo.png" width="120" style="max-width: 100%;"></a></div>
+
