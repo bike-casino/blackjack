@@ -1,9 +1,9 @@
 ----
 
-### Casino Duende Blackjack
+### Casino Bike Blackjack
 
 
-A JavaScript Blackjack game created by Casino Bike
+A JavaScript Blackjack game created by CasinoBike.com
 
 -----
 
@@ -40,7 +40,7 @@ Yes of course! You can implement the widget on any website for free.
 
 Do not! The game contains little lines of code and runs in Github hosting.
 
-- **The widget contains Casino Duende logo, will this harm my website?**
+- **The widget contains Casino Bike logo, will this harm my website?**
 
 No, absolutely! Logo and link has "nofollow" attribute and does not affect your website in any way.
 
