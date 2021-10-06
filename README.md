@@ -57,3 +57,7 @@ By all means! But please, raise a problem first if it is more than a small chang
 - Firefox 30+
 - Safari 5.1+
 - Opera 23+
+
+-----
+
+## Sponsors
